@@ -1,6 +1,6 @@
-# ReduceFlow 🌊
+# JS Visualizer 🌊
 
-ReduceFlow is a modern, interactive educational platform designed to teach complex JavaScript array methods through beautiful, step-by-step visualizations. Built with a focus on UX/UI polish, it transforms abstract coding concepts into a tangible visual experience.
+JS Visualizer is a modern, interactive educational platform designed to teach complex JavaScript array methods through beautiful, step-by-step visualizations. Built with a focus on UX/UI polish, it transforms abstract coding concepts into a tangible visual experience.
 
 ## ✨ Features
 
@@ -29,8 +29,7 @@ Mini code editors where you can run your own snippets.
   - `Space` / `Enter`: Start visualizer
   - `Esc`: Reset visualizer
   - `Alt + T`: Toggle Theme
-
-## 🚀 Tech Stack
+--- 
 
 - **HTML5:** Semantic structure.
 - **CSS3:** Custom properties (variables), Flexbox layout, and advanced animations.
